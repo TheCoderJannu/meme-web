@@ -14,7 +14,7 @@
 
 **Database Schema:**
 ```sql
-CREATE TABLE follows (
+CREATE TABLE follows ( 
   id uuid PRIMARY KEY,
   follower_id uuid REFERENCES profiles(id),
   following_id uuid REFERENCES profiles(id),
