@@ -11,7 +11,7 @@ The MemeWeb application now includes comprehensive messaging and calling capabil
 ## Features
 
 ### 1. Chat System
-
+ 
 #### Accessing Chat
 - Tap the **Chat** tab in the bottom navigation bar
 - Browse your existing conversations
